@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Semangat cantik:)</title>
+	<head>
+	<body>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p> 
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro</p>
+		<p>Semangat Kulihnya bro</p>
+	</body>
+</html>
